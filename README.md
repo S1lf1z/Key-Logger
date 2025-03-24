@@ -1,2 +1,5 @@
-# InfernumSquad-Key-Logger
-Key-Logger-by-Self$-Was-Here
+· #Key-logger-discord.net
+
+Request-Dotnet-8.0
+
+https://dotnet.microsoft.com/en-us/
